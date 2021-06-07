@@ -1,0 +1,12 @@
+{
+  "httpPort": 8080,
+  "plugNames": [
+    "TV",
+    "Living room lamp",
+    "Garage door",
+    "Cooling system",
+    "Coffee maker"],
+  "mqttBroker": "tcp://127.0.0.1",
+  "mqttClientId": "iot_sim",
+  "mqttTopicPrefix": "iot"
+}
